@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="dragon">#DAC0C0</color>
+    <color name="dragons">#504848</color>
+    <color name="blackd">#020202</color>
+    <color name="dragone">#B66D6D</color>
+    <color name="blacksse">#000000</color>
 </resources>
