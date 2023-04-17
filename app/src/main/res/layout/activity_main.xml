@@ -32,6 +32,6 @@
         android:backgroundTint="@color/dragone"
         android:text="@string/plusdragon"
         android:textColor="@color/blacksse"
-        android:textSize="@dimen/txtsize"
+        android:textSize="@dimen/txtsize" />
 
 </LinearLayout>
